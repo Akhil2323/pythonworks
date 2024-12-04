@@ -1,0 +1,15 @@
+error handling
+
+->try
+->except
+->finally
+->raise
+->assert
+
+-try:
+-----
+    doubtfull code if specific code has may be error occur or not it put into try
+
+-except:
+--------
+     

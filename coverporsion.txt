@@ -1,0 +1,30 @@
+    # fundamentals(variable,operators,datatype)
+
+    # decisionmaking(if,if.else,if..elif..else)
+
+    # looping(for,while)
+
+    # function(),lambda function
+
+    # collections
+       #list methods
+       # tuple methods
+       # set methods
+       # dictionary methods   
+    
+    # nested collection
+    # file opertions 
+    # processing json
+    # regularexpression
+
+#pending
+
+#  *args,**kwargs
+
+# decorators
+
+# oops
+
+# error handling
+
+# yield

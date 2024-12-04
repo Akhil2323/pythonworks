@@ -1,0 +1,17 @@
+print("message") => print a message in console
+
+variable_name=value => declare variable
+
+type(object) => return data type of object
+
+input("message") => read value from console
+
+round(object,precision)
+
+len(object) => read the length of object but its not work if object is integer
+
+len(str(object)) => read the length of object and object is integer
+
+range(start,stop+1,step) 
+
+min(num1,num2)=> return 

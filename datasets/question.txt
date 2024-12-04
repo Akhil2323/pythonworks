@@ -1,0 +1,5 @@
+this is a python program to print hello world
+
+this python text is very simple
+
+this python program count frequency of each word 

@@ -1,0 +1,20 @@
+oops(object oriented programing) => real world enitity convert into program
+
+oops consist of class and object
+
+Class is like an object constructor, or a "blueprint" for creating objects
+
+object contain properties (attributes) and methods
+
+initialize attributes (instance variables)
+
+constructor
+
+initializing instance variables constructor
+
+__init__ =>is the constructor of python.constructor is used to initializing-
+instance variables constructor
+
+constructor call at the time of object create
+
+__str__ => str is used to initialize the string

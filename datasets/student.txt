@@ -1,0 +1,5 @@
+100,vipin,bca,selected
+106,rahul,bcom,not selected
+107,aravind,bba,selected
+102,appu,ba,not selected
+

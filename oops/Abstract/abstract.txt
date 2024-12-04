@@ -1,0 +1,5 @@
+Abstract
+
+hiding implementation method
+
+all fuction call any one function not call error occured
